@@ -6,10 +6,10 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/graph-gophers/graphql-go/internal/common"
-	"github.com/graph-gophers/graphql-go/internal/exec/packer"
-	"github.com/graph-gophers/graphql-go/internal/schema"
-	pubselected "github.com/graph-gophers/graphql-go/selected"
+	"github.com/nathanburkett/graphql-go/internal/common"
+	"github.com/nathanburkett/graphql-go/internal/exec/packer"
+	"github.com/nathanburkett/graphql-go/internal/schema"
+	pubselected "github.com/nathanburkett/graphql-go/selected"
 )
 
 type Schema struct {
